@@ -1,0 +1,23 @@
+-------Folder and Fils:
+
+#models  = user.model.js
+#routes = user.routes.js
+
+
+-------File
+#index.js
+#.env
+
+
+
+
+
+
+
+
+
+
+
+
+
+
